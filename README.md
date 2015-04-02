@@ -1,0 +1,2 @@
+# mantid-recipes
+Mantid Recipes
